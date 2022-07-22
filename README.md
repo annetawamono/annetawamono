@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there, I'm Anneta 👋
+
+- 🔭 I’m currently working as a Web Developer at Studio Locale in Kitchener, ON
+- 🌱 I’m currently learning everything and anything frontend
+- 📫 How to reach me: [annetawamono@yahoo.com.au](mailto:annetawamono@yahoo.com.au)
 
 <!--
 **annetawamono/annetawamono** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
