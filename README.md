@@ -2,6 +2,7 @@
 
 - 🔭 I’m currently working as a Web Developer at Studio Locale in Kitchener, ON
 - 🌱 I’m currently learning everything and anything frontend
+- ✍🏾 Check out my articles on [dev.to](https://dev.to/annetawamono)
 - 📫 How to reach me: [dev@annetawamono.co.za](mailto:dev@annetawamono.co.za)
 
 <!--
